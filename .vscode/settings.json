@@ -1,0 +1,8 @@
+{
+    "editor.minimap.maxColumn": 120,
+    "editor.tabSize": 4,
+    "editor.cursorStyle": "line",
+    "editor.multiCursorModifier": "alt",
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": true
+}
